@@ -1,8 +1,7 @@
-# React + Vite
+Blog Application Using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project contains the following features :
+A Blog Dashboard with Navbar having Home and Add Blog links. 
+The Home page should showING the list of data accessed from external API link (https://jsonplaceholder.typicode.com/posts).
+The dashboard data is displayed in a view with fields id, title.
+It has a "Create a Blog" form with fields; Blog Name, Description, Author Name.
